@@ -1,0 +1,7 @@
+For the latest information about the Plug-in for ZooKeeper, please visit:
+
+ http://www.massedynamic.org/eclipse/zookeeper
+
+The release notes are available on-line here:
+
+ http://www.massedynamic.org/eclipse/zookeeper/releases

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.massedynamic.eclipse.zookeeper;version
+ ="1.0.1";roots:="."
+Bundle-Version: 1.0.1.qualifier
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.massedynamic.eclipse.zookeeper;singleton:=true
+Require-Bundle: org.massedynamic.eclipse.core;bundle-version="[1.0.0,2.0.0)",
+ org.massedynamic.eclipse.jmx;bundle-version="[1.0.0,2.0.0)"
+Bundle-Activator: org.massedynamic.eclipse.zookeeper.ZooKeeperActivator
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: ., 
+ lib/zookeeper-3.2.2.jar,
+ lib/log4j-1.2.15.jar
+

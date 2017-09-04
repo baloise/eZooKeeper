@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.massedynamic.eclipse.zookeeper.feature_1.0.0.qualifier.jar" id="org.massedynamic.eclipse.zookeeper.feature" version="1.0.0.qualifier">
+      <category name="org.massedynamic.eclipse.zookeeper"/>
+   </feature>
+   <category-def name="org.massedynamic.eclipse.zookeeper" label="org.massedynamic.eclipse.zookeeper"/>
+</site>

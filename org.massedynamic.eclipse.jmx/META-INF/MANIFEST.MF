@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.massedynamic.eclipse.jmx;version="1.0.1";roo
+ ts:="."
+Bundle-Version: 1.0.1.qualifier
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.massedynamic.eclipse.jmx;singleton:=true
+Require-Bundle: org.massedynamic.eclipse.core;bundle-version="[1.0.0,2.0.0)"
+Export-Package: org.massedynamic.eclipse.jmx.actions,
+ org.massedynamic.eclipse.jmx.data,
+ org.massedynamic.eclipse.jmx.model,
+ org.massedynamic.eclipse.jmx.runtime,
+ org.massedynamic.eclipse.jmx.viewers
+
