@@ -6,7 +6,7 @@
   <groupId>org.massedynamic.eclipse.zookeeper</groupId>
   <artifactId>org.massedynamic.eclipse.zookeeper.releng</artifactId>
   <name>Baloise ZooKeeper</name>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <properties>
@@ -17,6 +17,7 @@
   </properties>
   
   <modules>
+    <module>../org.massedynamic.eclipse.zookeeper.repo</module>
     <module>../org.massedynamic.eclipse.zookeeper.feature</module>
     <module>../org.massedynamic.eclipse.zookeeper</module>
     <module>../org.massedynamic.eclipse.jmx</module>

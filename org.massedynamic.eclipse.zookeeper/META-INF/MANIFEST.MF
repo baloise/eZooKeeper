@@ -1,6 +1,4 @@
 Manifest-Version: 1.0
-Eclipse-SourceBundle: org.massedynamic.eclipse.zookeeper;version
- ="1.0.1";roots:="."
 Bundle-Version: 1.0.1.qualifier
 Bundle-Localization: plugin
 Bundle-Name: %pluginName

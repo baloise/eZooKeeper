@@ -1,6 +1,4 @@
 Manifest-Version: 1.0
-Eclipse-SourceBundle: org.massedynamic.eclipse.core;version="1.0.0";ro
- ots:="."
 Bundle-Version: 1.0.0.qualifier
 Bundle-Localization: plugin
 Bundle-Name: %pluginName
@@ -26,4 +24,4 @@ Export-Package: org.massedynamic.eclipse.core,
  org.massedynamic.eclipse.core.widgets,
  org.massedynamic.eclipse.core.widgets.grid,
  org.massedynamic.eclipse.core.wizards
-
+Bundle-ClassPath: .
