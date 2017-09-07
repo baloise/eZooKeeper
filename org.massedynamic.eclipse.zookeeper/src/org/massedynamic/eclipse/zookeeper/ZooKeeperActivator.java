@@ -58,7 +58,7 @@ public class ZooKeeperActivator extends EclipseCoreActivator {
     /**
      * The suffix to add to the plug-in's editor and view IDs to uniquely qualify them.
      */
-    public static final String VERSION_SUFFIX = "." + ZOO_KEEPER_VERSION;
+    public static final String VERSION_SUFFIX = "";
 
     /**
      * The unique ID of this plug-in.
