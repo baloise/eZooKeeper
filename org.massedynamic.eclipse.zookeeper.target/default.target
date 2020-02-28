@@ -13,6 +13,6 @@
 <nl>de_CH</nl>
 </environment>
 <launcherArgs>
-<vmArgs>-Dcom.sun.net.ssl.checkRevocation=false -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication -Dosgi.requiredJavaVersion=1.8 -Xms256m -Xmx1024m -Declipse.p2.max.threads=10 -Doomph.update.url=http://download.eclipse.org/oomph/updates/milestone/latest -Doomph.redirection.index.redirection=index:/-&gt;http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/</vmArgs>
+<vmArgs>-Dcom.sun.net.ssl.checkRevocation=false -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication -Dosgi.requiredJavaVersion=1.8 -Xms256m -Xmx1024m -Declipse.p2.max.threads=10</vmArgs>
 </launcherArgs>
 </target>
